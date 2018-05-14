@@ -18,10 +18,10 @@ If you want to see the stitch patterns already built into the E6000 console, fol
 2. Open the install folder that you created when you extracted (unzipped) the Journal Six zip file.
 3. Run ConsoleImport.exe.
 4. Verify that the stitch patterns have been imported.
-   a. Open Journal Six.
-   b.	Go to the stitch patterns chapter.
-   c. Click on one of the console stitch patterns.
-   d. Use the magnifier to enlarge the stitch pattern and observe that it is there.
+   4.1. Open Journal Six.
+   4.2.	Go to the stitch patterns chapter.
+   4.3. Click on one of the console stitch patterns.
+   4.4. Use the magnifier to enlarge the stitch pattern and observe that it is there.
 ## Getting Help
 The best place to get help is by reading the user manual.  Click the user manual link in the software to read illustrated step by step instructions for every feature of the software. 
 Because this software is now distributed as freeware, I cannot answer questions on an individual basis.  Please go to https://groups.yahoo.com/neo/groups/JournalSixSupport/info if you need additonal help using the software.
