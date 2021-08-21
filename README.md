@@ -24,4 +24,4 @@ If you want to see the stitch patterns already built into the E6000 console, fol
    * Use the magnifier to enlarge the stitch pattern and observe that it is there.
 ## Getting Help
 The best place to get help is by reading the user manual.  Click the user manual link in the software to read illustrated step by step instructions for every feature of the software. 
-Because this software is now distributed as freeware, I cannot answer questions on an individual basis.  Please go to https://groups.yahoo.com/neo/groups/JournalSixSupport/info if you need additional help using the software.
+Because this software is now distributed as freeware, I cannot answer questions on an individual basis.  
