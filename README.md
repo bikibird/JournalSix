@@ -22,6 +22,8 @@ If you want to see the stitch patterns already built into the E6000 console, fol
    *	Go to the stitch patterns chapter.
    * Click on one of the console stitch patterns.
    * Use the magnifier to enlarge the stitch pattern and observe that it is there.
+## About passappal.com
+The old passappal.com site is no more, but you can still access the resources from it here: [http://bikibird.com/PassaPal/](http://bikibird.com/PassaPal/)
 ## Getting Help
 The best place to get help is by reading the user manual.  Click the user manual link in the software to read illustrated step by step instructions for every feature of the software. 
 Because this software is now distributed as freeware, I cannot answer questions on an individual basis.  
